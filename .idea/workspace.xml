@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a4950b2-02f3-4b90-ac8c-a43b06a80a13" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1SCKhoGjhRTpTvPSq9OZ8Y5bop3" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/phpstudy_pro/Extensions/php/php7.3.4nts/php.exe" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a4950b2-02f3-4b90-ac8c-a43b06a80a13" name="Default Changelist" comment="" />
+      <created>1571062258534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571062258534</updated>
+      <workItem from="1571062259614" duration="4523000" />
+      <workItem from="1571068610366" duration="6035000" />
+      <workItem from="1571212548717" duration="4097000" />
+      <workItem from="1571245742189" duration="4736000" />
+      <workItem from="1571298802105" duration="15000" />
+      <workItem from="1571298827784" duration="906000" />
+      <workItem from="1571299743797" duration="94000" />
+      <workItem from="1571299846163" duration="1387000" />
+      <workItem from="1571303310233" duration="568000" />
+      <workItem from="1571303888186" duration="5681000" />
+      <workItem from="1571396193644" duration="602000" />
+      <workItem from="1571396807227" duration="4824000" />
+      <workItem from="1571464206933" duration="14736000" />
+      <workItem from="1571589974352" duration="77000" />
+      <workItem from="1571590061223" duration="204000" />
+      <workItem from="1571590275747" duration="528000" />
+      <workItem from="1571590814267" duration="160000" />
+      <workItem from="1571590983965" duration="659000" />
+      <workItem from="1571591652248" duration="9000" />
+      <workItem from="1571591672635" duration="51000" />
+      <workItem from="1571591745817" duration="95000" />
+      <workItem from="1571591851799" duration="50000" />
+      <workItem from="1571591913854" duration="32000" />
+      <workItem from="1571592104209" duration="2608000" />
+      <workItem from="1571650709639" duration="734000" />
+      <workItem from="1571652859626" duration="22043000" />
+      <workItem from="1571857783505" duration="1905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
