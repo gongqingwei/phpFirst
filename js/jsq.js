@@ -25,6 +25,11 @@ function init_num() {
                     fh=this.value;
                     num1=xianshi.value*1;
                     xianshi.value="0";
+                }else if(this.value=="."){
+                    if(xianshi.value.indexOf(".")==-1){
+                        xianshi.value+=this.value;
+                    }else {
+                    }
                 }else if(this.value=="="){
                     switch (fh) {
                         case "+":
